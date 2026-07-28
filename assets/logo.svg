@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-labelledby="title desc">
+  <title id="title">Paint Compass logo</title>
+  <desc id="desc">A compass needle pointing across a clean paint surface</desc>
+  <rect width="96" height="96" rx="18" fill="#17263A"/>
+  <circle cx="48" cy="48" r="28" fill="none" stroke="#D9D4C8" stroke-width="6"/>
+  <path d="m59 34-7 20-20 8 8-21z" fill="#D95D39" stroke="#F8F5EC" stroke-width="3" stroke-linejoin="round"/>
+  <circle cx="48" cy="48" r="5" fill="#E7B44C"/>
+  <path d="M48 14v7M48 75v7M14 48h7M75 48h7" stroke="#4D8FB8" stroke-width="4" stroke-linecap="round"/>
+</svg>
