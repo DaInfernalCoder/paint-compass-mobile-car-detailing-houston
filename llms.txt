@@ -13,3 +13,14 @@
 - Telephone: +1 346-608-0157
 - Service: Appointment-based mobile car detailing
 - Booking: https://cal.com/sumitdatta/auto-detail-service
+
+<!-- SEO-NEXT:START -->
+## Expanded pages
+- [Services](https://paintcompass.shop/services/)
+- [Interior Car Detailing](https://paintcompass.shop/services/interior-car-detailing/)
+- [Exterior Car Detailing](https://paintcompass.shop/services/exterior-car-detailing/)
+- [Mobile Car Wash](https://paintcompass.shop/services/mobile-car-wash/)
+- [Headlight Restoration & Polishing](https://paintcompass.shop/services/headlight-restoration/)
+- [About](https://paintcompass.shop/about/)
+- [Contact](https://paintcompass.shop/contact/)
+<!-- SEO-NEXT:END -->
