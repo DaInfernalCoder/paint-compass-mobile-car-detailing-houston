@@ -1,6 +1,6 @@
 # Launch asset sources
 
-All photographs are licensed stock used to illustrate detailing context. They do not depict Paint Compass staff, customers, customer vehicles, or completed Paint Compass work. Pexels images use the [Pexels license](https://www.pexels.com/license/); the one Unsplash image uses the [Unsplash license](https://unsplash.com/license).
+All photographs are licensed stock used to illustrate detailing context. They do not depict Katy Mobile Car Detailing Co staff, customers, customer vehicles, or completed Katy Mobile Car Detailing Co work. Pexels images use the [Pexels license](https://www.pexels.com/license/); the one Unsplash image uses the [Unsplash license](https://unsplash.com/license).
 
 - `hero-route.jpg`: https://www.pexels.com/photo/person-polishing-the-surface-of-a-car-14615262/
 - `service-foam.jpg`: https://www.pexels.com/photo/car-covered-in-foam-in-a-car-wash-5693659/
@@ -12,4 +12,4 @@ All photographs are licensed stock used to illustrate detailing context. They do
 - `detail-pressure.jpg`: https://www.pexels.com/photo/car-washing-with-soap-and-pressure-washer-4876676/
 - `detail-glass.jpg`: https://www.pexels.com/photo/cleaning-of-car-window-4870706/
 
-The Paint Compass checklist logo is an original SVG created for this site. Barlow Condensed and Manrope are used under their Google Fonts open licenses: https://fonts.google.com/
+The Katy Mobile Car Detailing Co checklist logo is an original SVG created for this site. Barlow Condensed and Manrope are used under their Google Fonts open licenses: https://fonts.google.com/

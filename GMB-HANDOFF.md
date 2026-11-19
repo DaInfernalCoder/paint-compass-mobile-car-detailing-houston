@@ -2,7 +2,7 @@
 
 ## Outcome
 
-Create and launch Paint Compass Mobile Car Detailing Houston as site 35 of the 100-site portfolio.
+Create and launch Katy Mobile Car Detailing Co as site 35 of the 100-site portfolio.
 
 ## Confirmed
 
@@ -18,7 +18,7 @@ Create and launch Paint Compass Mobile Car Detailing Houston as site 35 of the 1
 
 ## Truth constraints
 
-The public phone and street address are confirmed as supplied by the owner. Licensed stock imagery is illustrative and must not be presented as completed Paint Compass work.
+The public phone and street address are confirmed as supplied by the owner. Licensed stock imagery is illustrative and must not be presented as completed Katy Mobile Car Detailing Co work.
 
 ## Acceptance checklist
 
@@ -37,7 +37,7 @@ The public phone and street address are confirmed as supplied by the owner. Lice
 
 ## Draft GBP description
 
-Paint Compass Mobile Car Detailing Houston helps Houston drivers arrange careful interior and exterior vehicle care across Houston, Texas. This Car Detailing Houston service focuses on cabin surfaces, exterior panels, wheels, glass, and visible finish details for drivers in Houston, Texas. Paint Compass Mobile Car Detailing Houston keeps the service scope tied to the vehicle's current condition and the areas the driver wants addressed. Drivers can use this Car Detailing Houston service for interior, exterior, or complete detailing arranged throughout Houston, Texas. Paint Compass Mobile Car Detailing Houston offers online scheduling now, with its confirmed public phone added at final handoff.
+Katy Mobile Car Detailing Co helps Houston drivers arrange careful interior and exterior vehicle care across Houston, Texas. This Car Detailing Houston service focuses on cabin surfaces, exterior panels, wheels, glass, and visible finish details for drivers in Houston, Texas. Katy Mobile Car Detailing Co keeps the service scope tied to the vehicle's current condition and the areas the driver wants addressed. Drivers can use this Car Detailing Houston service for interior, exterior, or complete detailing arranged throughout Houston, Texas. Katy Mobile Car Detailing Co offers online scheduling now, with its confirmed public phone added at final handoff.
 
 ## Blocker
 
@@ -46,3 +46,6 @@ Public GitHub/Vercel/DNS launch and GeoStamp sync remain pending.
 ## Exact next action
 
 Publish the approved site, deploy it to Vercel, connect registrar DNS, and sync GeoStamp.
+
+## November 19, 2026 setup update
+Owner requested rename to Katy Mobile Car Detailing Co and addition to /make. Existing confirmed phone and Katy address retained. Existing custom website verified HTTPS 200; prior launch checkboxes above were stale. Google profile creation and verification remain pending.

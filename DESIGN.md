@@ -1,4 +1,4 @@
-# Paint Compass design direction
+# Katy Mobile Car Detailing Co design direction
 
 ## Subject, audience, and job
 
