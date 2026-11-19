@@ -2,7 +2,7 @@
 
 ## Subject, audience, and job
 
-Mobile detailing for Houston drivers who need a clear direction based on the vehicle's current paint and cabin condition. The page should reduce guesswork and lead to calling or booking online once contact details are confirmed.
+Mobile detailing for Katy drivers who need a clear direction based on the vehicle's current paint and cabin condition. The page should reduce guesswork and lead to calling or booking online once contact details are confirmed.
 
 ## Visual system
 
