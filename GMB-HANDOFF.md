@@ -8,8 +8,8 @@ Create and launch Katy Mobile Car Detailing Co as site 35 of the 100-site portfo
 
 - Service: Mobile Car Detailing
 - Market: Katy, Texas
-- Registered domain: `paintcompass.shop`
-- Public phone: `+1 346-608-0157`
+- Registered domain: `katymobilecardetailing.shop`
+- Public phone: `+1 346-598-4994`
 - Street address: `5544 S Peek Rd, Katy, TX 77494`
 - Registration defaults: 1 year, high privacy with consent, auto-renew off
 - Booking: https://cal.com/sumitdatta/auto-detail-service
@@ -49,3 +49,5 @@ Publish the approved site, deploy it to Vercel, connect registrar DNS, and sync 
 
 ## November 19, 2026 setup update
 Owner requested rename to Katy Mobile Car Detailing Co and addition to /make. Existing confirmed phone and Katy address retained. Existing custom website verified HTTPS 200; prior launch checkboxes above were stale. Google profile creation and verification remain pending.
+
+November 19 final contact update: new dedicated GHL local number purchased at $1.15/month; previous number replaced by owner request. Domain purchased at $0.90 for one year, high privacy, auto-renew off.
